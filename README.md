@@ -14,7 +14,7 @@ The script provides the following features:
 
 To run the script, you need the following:
 
-- Python 3.x installed on your system.
+- Python installed on your system.
 
 ## Usage
 
@@ -24,7 +24,7 @@ To run the script, you need the following:
 4. Run the script using the following command:
 
    ```bash
-   python sudoku_solver.py
+   python sudokuSolver.py
    ```
 
 5. Follow the on-screen instructions to input the Sudoku board.
