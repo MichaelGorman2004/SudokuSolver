@@ -24,7 +24,7 @@ To run the script, you need the following:
 4. Run the script using the following command:
 
    ```bash
-   python sudokuSolver.py
+   python SudokuSolver.py
    ```
 
 5. Follow the on-screen instructions to input the Sudoku board.
